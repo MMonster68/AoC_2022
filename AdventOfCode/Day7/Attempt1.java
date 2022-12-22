@@ -1,6 +1,12 @@
 import java.io.*;
 import java.util.*;
 
+
+
+// Warning, this code does not work, It was just my first attempt to solve this problem lol
+
+
+
 public class Attempt1 {
     public static void main(String[] args) throws IOException {
         
